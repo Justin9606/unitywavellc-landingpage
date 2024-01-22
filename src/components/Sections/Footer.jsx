@@ -33,8 +33,8 @@ export default function Contact() {
             </Link>
             <StyleP className="whiteColor font13">
               © {getCurrentYear()} -{" "}
-              <span className="purpleColor font13">UnityWaveLLC</span> All Right
-              Reserved
+              <span className="purpleColor font13">UnityWaveLLC </span> All
+              Right Reserved
             </StyleP>
 
             <Link
